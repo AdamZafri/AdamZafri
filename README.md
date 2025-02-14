@@ -9,8 +9,8 @@
 - **Tools:** Git, GitHub, VS Code, Figma  
 
 ### 📂 Projects  
-🔹 **[Eco-Drive – Fuel Efficiency Prediction App](https://github.com/YOUR_REPO)** *(Kotlin, ML Integration)*  
-🔹 **[Office Attendance System](https://github.com/YOUR_REPO)** *(Laravel, MySQL)*  
+🔹 **[Eco-Drive – Fuel Efficiency Prediction App](https://github.com/AdamZafri/Eco-Drive)** *(Kotlin, ML Integration)*  
+🔹 **[Cybercafe Reservation System](https://github.com/YOUR_REPO)** *(Laravel, MySQL)*  
 🔹 **[Hotel Kitchen Inventory System](https://github.com/YOUR_REPO)** *(Laravel, MySQL)*  
 
 ### 🏆 Achievements  
