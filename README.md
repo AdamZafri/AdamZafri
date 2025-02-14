@@ -11,7 +11,7 @@
 ### 📂 Projects  
 🔹 **[Eco-Drive – Fuel Efficiency Prediction App](https://github.com/AdamZafri/Eco-Drive)** *(Kotlin, ML Integration)*  
 🔹 **[Cybercafe Reservation System](https://github.com/AdamZafri/Cyberworld)** *(MySQL, Laragon, HTML, CSS)*  
-🔹 **[Hotel Kitchen Inventory System](https://github.com/YOUR_REPO)** *(Laravel, MySQL)*  
+🔹 **[JAVA Training](https://github.com/AdamZafri/Java-2024)** *(JAVA)*  
 
 ### 🏆 Achievements  
 🏅 **1st Place – HACKINSAN Hackathon 2024**  
