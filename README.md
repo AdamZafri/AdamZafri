@@ -10,7 +10,7 @@
 
 ### 📂 Projects  
 🔹 **[Eco-Drive – Fuel Efficiency Prediction App](https://github.com/AdamZafri/Eco-Drive)** *(Kotlin, ML Integration)*  
-🔹 **[Cybercafe Reservation System](https://github.com/YOUR_REPO)** *(Laravel, MySQL)*  
+🔹 **[Cybercafe Reservation System](https://github.com/AdamZafri/Cyberworld)** *(MySQL, Laragon, HTML, CSS)*  
 🔹 **[Hotel Kitchen Inventory System](https://github.com/YOUR_REPO)** *(Laravel, MySQL)*  
 
 ### 🏆 Achievements  
